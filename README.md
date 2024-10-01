@@ -1,9 +1,9 @@
+<div align="center">
 
+![Header](https://raw.githubusercontent.com/vidhvath28/vidhvath28/main/header.png)
 
----
-
-<h1 align="center">👋 Hi, I'm Vidhvath J Poojari</h1>
-<h3 align="center">A passionate frontend developer from India 🌍 | Enthusiast in Web3 and Blockchain 🚀</h3>
+# 👋 Hi, I'm **Vidhvath J Poojari**
+### A passionate Frontend Developer from India 🌍 | Web3 & Blockchain Enthusiast 🚀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vidhvath28&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -16,77 +16,82 @@
 
 ---
 
-- 🔭 **Currently working on:** Cutting-edge Web3 projects and blockchain applications.
-- 🌱 **Learning:** Development in Web3 and blockchain to stay ahead of the curve.
-- 💬 **Ask me about:** React, Blockchain, and Frontend Development.
-- 📫 **Contact me:** [vidhvathj.2005@gmail.com](mailto:vidhvathj.2005@gmail.com)
-- ⚡ **Fun fact:** I love exploring the intersection of tech and creativity! 🎨✨
+### 🌱 Currently Learning:
+- **Web3 Development**
+- **Blockchain Technologies**
+- **Smart Contracts with Solidity**
+- **Decentralized Applications (DApps)**
+
+### 💬 Ask Me About:
+- **React.js**, **Node.js**, **Blockchain Development**, and more!
+
+### 🚀 Recent Projects:
+- **[MyPortfolio](https://github.com/vidhvath28/myportfolio)**: A personal portfolio website showcasing my work and skills.
+- **[DAppExample](https://github.com/vidhvath28/dappexample)**: A simple decentralized application built on Ethereum.
+- **[ReactWeatherApp](https://github.com/vidhvath28/reactweatherapp)**: A weather application using React and OpenWeather API.
+
+### 🏅 **GSoC Contributions**:
+- **GSoC 2024 Contributor**: Enhanced an open-source project and gained valuable experience in collaborative development.
+- **GSoC 2024 Mentor**: Guided new contributors, helping them navigate their first steps in open source.
+
+### 🎓 Achievements:
+- Completed **[Frontend Development Bootcamp](#)**.
+- Earned certification in **Blockchain Basics** from **Coursera**.
+
+### 📫 How to Reach Me:
+- Email: [vidhvathj.2005@gmail.com](mailto:vidhvathj.2005@gmail.com)
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center">🌐 Connect with Me:</h3>
 <p align="center">
   <a href="https://twitter.com/vidhvathj" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vidhvathj?style=social" alt="Twitter: Vidhvath J" />
+    <img src="https://img.shields.io/twitter/follow/vidhvathj?style=social" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/vidhvath-j" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-vidhvath--j-blue" alt="LinkedIn: Vidhvath J" />
+    <img src="https://img.shields.io/badge/LinkedIn-vidhvath--j-blue" alt="LinkedIn" />
+  </a>
+  <a href="https://www.dev.to/vidhvath28" target="blank">
+    <img src="https://img.shields.io/badge/Dev.to-vidhvath28-orange" alt="Dev.to" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+<h3 align="center">🛠️ My Tech Stack:</h3>
+
+### **Frontend Development:**
+- **HTML5**, **CSS3**, **JavaScript**, **React.js**, **Next.js**
+
+### **Backend Development:**
+- **Node.js**, **Express.js**, **Python**, **Django**
+
+### **Blockchain & Web3:**
+- **Solidity**, **Web3.js**, **IPFS**
+
+### **Database Management:**
+- **MongoDB**, **MySQL**, **PostgreSQL**
+
+### **DevOps & Tools:**
+- **Git**, **Docker**, **Linux**, **Figma**
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhvath28&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+### 🌟 Fun Facts About Me:
+- I enjoy hiking and exploring nature on weekends.
+- A big fan of sci-fi movies and series. 🎬
+- Always up for a game of chess! ♟️
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&" alt="GitHub Streak" />
-</p>
+### 🔍 Latest Articles:
+- [How to Get Started with Web3](https://medium.com/@vidhvath28/getting-started-with-web3)
+- [Understanding Smart Contracts](https://medium.com/@vidhvath28/understanding-smart-contracts)
 
 ---
 
-<h3 align="center">🏆 Achievements</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vidhvath28" alt="GitHub Profile Trophy" />
-  </a>
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&locale=en" alt="vidhvath28" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&" alt="vidhvath28" /></p>
 
 ---
 
-<img src="https://media.giphy.com/media/QG5zXHwrX2i2Fmo7JS/giphy.gif" alt="Thank You GIF" align="center" width="400"/>
-
----
+</div>
