@@ -46,6 +46,12 @@
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm20k04nd102650cl666hib3id">
     <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="Holopin Badges" width="200" height="200" style="display: inline-block;" />
   </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm21d5fa261370ckx8hcm3qmy">
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-hoodie-0-0.webp" alt="Holopin Badges" width="200" height="200" style="display: inline-block;" />
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm21d5fa261370ckx8hcm3qmy">
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-hoodie-0-0.webp" alt="Holopin Badges" width="200" height="200" style="display: inline-block;" />
+  </a>
 </p>
 
 
