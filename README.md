@@ -40,8 +40,11 @@
 
 <h3 align="left">Holopin Badges:</h3>
 <p align="left">
-  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1py7w8z13960ck7yrdpwycq"><img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badges" /></a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1py7w8z13960ck7yrdpwycq">
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badges" width="200" height="200" />
+  </a>
 </p>
+
 
 ---
 
