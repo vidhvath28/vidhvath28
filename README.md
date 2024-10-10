@@ -45,6 +45,12 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm20k04nd102650cl666hib3id">
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="Holopin Badges" width="200" height="200" />
+  </a>
+</p>
+
 
 ---
 
