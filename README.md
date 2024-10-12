@@ -19,45 +19,6 @@
 
 ---
 
-<h3 align="left" style="color:#ffffff;">Featured Projects:</h3>
-<p align="left">
-  <a href="https://github.com/yourusername/yourproject" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject&theme=dark" />
-  </a>
-  <a href="https://github.com/yourusername/anotherproject" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=anotherproject&theme=dark" />
-  </a>
-</p>
-
----
-
-<h3 align="left" style="color:#ffffff;">Demo:</h3>
-<p align="left">
-  <img src="https://yourproject-gif-or-video-url.gif" alt="Project Demo" width="500" />
-</p>
-
----
-
-<h3 align="left" style="color:#ffffff;">Latest Blog Posts:</h3>
-<p align="left">
-  <a href="https://yourblogurl.com/latest-post" target="_blank">📄 How I Built My First DApp</a><br>
-  <a href="https://yourblogurl.com/another-post" target="_blank">📄 Introduction to Solidity</a>
-</p>
-
----
-
-<h3 align="left" style="color:#ffffff;">Contribution Graph:</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vidhvath28&theme=github" alt="Contribution Graph" />
-</p>
-
----
-
-<h3 align="left" style="color:#ffffff;">Favorite Quote:</h3>
-<blockquote align="center" style="color:#b3b3b3;">"The future of the web is decentralized, powered by the creativity of coders."</blockquote>
-
----
-
 <h3 align="left" style="color:#ffffff;">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/vidhvathj" target="blank">
@@ -124,6 +85,14 @@
     <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-hoodie-witch-0.webp" alt="Holopin Badges" width="200" height="200" style="display: inline-block;" />
   </a>
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm231n6zr12340cl38u8z70yj">
-    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-hoodie-zombie-0-0.webp" alt="Holopin Badges" width="200" height="200" style="display: inline-block;" />
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-hoodie-witch-moon.webp" alt="Holopin Badges" width="200" height="200" style="display: inline-block;" />
   </a>
 </p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhvath28&show_icons=true&locale=en&layout=compact&theme=dark" alt="vidhvath28" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&locale=en&theme=dark" alt="vidhvath28" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=dark" alt="vidhvath28" /></p>  
