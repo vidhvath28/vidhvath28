@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#f5f5f5;">Hi 👋, I'm Vidhvath J Poojari</h1>
-<h3 align="center" style="color:#cccccc;">A passionate frontend developer from India, enthusiast in building Web 3 and blockchain technologies</h3>
+<h3 align="center" style="color:#cccccc;">A passionate frontend developer from India, enthusiastic about building Web 3 and blockchain technologies</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vidhvath28&label=Profile%20views&color=grey&style=flat" alt="Profile Views" />
@@ -19,7 +19,7 @@
 
 ---
 
-- 🌱 I’m currently learning **development in Web 3 and blockchain**
+- 🌱 I’m currently learning **Web 3 and blockchain development**
 - 📫 Reach me at: **vidhvathj.2005@gmail.com**
 
 ---
