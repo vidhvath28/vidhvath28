@@ -1,88 +1,104 @@
-<!-- Header Section -->
-<h1 align="center" style="color:#ffffff;">👋 Hi, I'm Vidhvath!</h1>
-<h3 align="center" style="color:#ffffff;">Developer | AI Enthusiast | Open Source Contributor</h3>
+<h1 align="center" style="color:#f5f5f5;">Hi 👋, I'm Vidhvath J Poojari</h1>
+<h3 align="center" style="color:#cccccc;">A passionate frontend developer from India, enthusiast in building Web 3 and blockchain technologies</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vidhvath28/" target="_blank">
-    <img src="https://img.shields.io/badge/-Vidhvath-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vidhvathj.2005@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/vidhvath28">
-    <img src="https://img.shields.io/github/followers/vidhvath28?label=Follow&style=social" alt="GitHub"/>
+  <img src="https://komarev.com/ghpvc/?username=vidhvath28&label=Profile%20views&color=grey&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vidhvath28&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
-<!-- About Me Section -->
-<h2 align="left" style="color:#ffffff;">🌟 About Me:</h2>
-<p align="left" style="color:#ffffff;">
-I'm a passionate developer with a deep interest in AI, open-source contributions, and creating impactful projects. From working on cutting-edge AI libraries to contributing to sustainability education, I thrive in solving real-world problems through code.
+<p align="center">
+  <a href="https://twitter.com/vidhvathj" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/vidhvathj?logo=twitter&style=for-the-badge&color=grey" alt="Twitter Follow" />
+  </a>
 </p>
 
-<!-- Tech Stack Section -->
-<h3 align="left" style="color:#ffffff;">💻 Tech Stack:</h3>
+---
+
+- 🌱 I’m currently learning **development in Web 3 and blockchain**
+- 📫 Reach me at: **vidhvathj.2005@gmail.com**
+
+---
+
+<h3 align="left" style="color:#ffffff;">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Crystal-776791?style=flat&logo=crystal&logoColor=white" alt="Crystal"/>
-  <img src="https://img.shields.io/badge/NixOS-7EBD44?style=flat&logo=NixOS&logoColor=white" alt="NixOS"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <a href="https://twitter.com/vidhvathj" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/vidhvath-j" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-<!-- Current Projects Section -->
-<h3 align="left" style="color:#ffffff;">🚀 Current Projects:</h3>
-<ul>
-  <li><a href="https://github.com/vidhvath28/Crystal2Nix" target="_blank">Crystal2Nix</a> - Converting Crystal Shards to Nix Packages</li>
-  <li><a href="https://github.com/vidhvath28/EcoStudy" target="_blank">EcoStudy</a> - A platform integrating sustainability education with hands-on environmental projects for students.</li>
-  <li><a href="https://github.com/vidhvath28/LibraGraphAI" target="_blank">LibraGraphAI</a> - Library management system leveraging knowledge graphs and generative AI.</li>
-</ul>
+---
 
-<!-- Open Source Contributions Section -->
-<h3 align="left" style="color:#ffffff;">💡 Open Source Contributions:</h3>
-<ul>
-  <li>Contributed to <a href="https://github.com/openmrs" target="_blank">OpenMRS</a> through GSoC 2024</li>
-  <li>Contributed to NixOS, working on improvements to <a href="https://github.com/nixos/nixpkgs" target="_blank">nixpkgs</a></li>
-</ul>
-
-<!-- Blog Section -->
-<h3 align="left" style="color:#ffffff;">📝 Latest Blog Posts:</h3>
-<ul>
-  <li><a href="https://yourblog.com/gsoc-journey" target="_blank">My Journey with GSoC 2024</a></li>
-  <li><a href="https://yourblog.com/design-thinking" target="_blank">Design Thinking for Sustainable Education</a></li>
-</ul>
-
-<!-- Development Setup Section -->
-<h3 align="left" style="color:#ffffff;">🛠️ My Development Setup:</h3>
-<ul>
-  <li>OS: Ubuntu 22.04 LTS</li>
-  <li>Editor: VS Code with extensions like Prettier and ESLint</li>
-  <li>Terminal: Zsh with Oh-My-Zsh</li>
-  <li>Version Control: Git and GitHub</li>
-</ul>
-
-<!-- GitHub Activity Section -->
-<h3 align="left" style="color:#ffffff;">⚡ Recent GitHub Activity:</h3>
-<p>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vidhvath28&theme=react-dark&bg_color=000000&hide_border=true" alt="GitHub Activity Graph" />
+<h3 align="left" style="color:#ffffff;">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+  </a>
 </p>
 
-<!-- Pinned Repositories Section -->
-<h3 align="left" style="color:#ffffff;">🔗 Pinned Repositories:</h3>
-<ul>
-  <li><a href="https://github.com/vidhvath28/crystal2nix" target="_blank">Crystal2Nix</a> - Convert Crystal Shards to Nix Packages</li>
-  <li><a href="https://github.com/vidhvath28/libraGraphAI" target="_blank">LibraGraphAI</a> - AI-powered library management system</li>
-</ul>
+---
 
-<!-- Fun Facts Section -->
-<h3 align="left" style="color:#ffffff;">🎯 Fun Facts:</h3>
-<ul>
-  <li>I love solving Rubik's cubes! 🧩</li>
-  <li>I'm an avid reader of sci-fi books 🚀</li>
-  <li>Currently learning to play the guitar 🎸</li>
-</ul>
+<h3 align="left" style="color:#ffffff;">Holopin Badges:</h3>
+<p align="left">
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1py7w8z13960ck7yrdpwycq">
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge 1" width="200" height="200" style="display: inline-block;" />
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm20k04nd102650cl666hib3id">
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="Holopin Badge 2" width="200" height="200" style="display: inline-block;" />
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm21d5fa261370ckx8hcm3qmy">
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-hoodie-0-0.webp" alt="Holopin Badge 3" width="200" height="200" style="display: inline-block;" />
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm22tueat06210ck35t5qfe6n">
+    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-hoodie-witch-0.webp" alt="Holopin Badge 4" width="200" height="200" style="display: inline-block;" />
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm231n6zr12340cl38u8z70yj">
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-hoodie-witch-moon.webp" alt="Holopin Badge 5" width="200" height="200" style="display: inline-block;" />
+  </a>
+</p>
 
-<!-- Contact Information Section -->
-<h3 align="left" style="color:#ffffff;">📬 Contact Me:</h3>
-<p>You can reach me via email: <a href="mailto:vidhvathj.2005@gmail.com" target="_blank">vidhvathj.2005@gmail.com</a></p>
+---
+
+<h3 align="left" style="color:#ffffff;">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhvath28&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=dark" alt="GitHub Streak" /></p>
