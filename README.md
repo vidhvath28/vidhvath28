@@ -1,8 +1,8 @@
-<h1 align="center" style="color:#e6e6e6;">Hi 👋, I'm Vidhvath J Poojari</h1>
-<h3 align="center" style="color:#dcdcdc;">A passionate frontend developer from India, building Web 3 and blockchain technologies</h3>
+<h1 align="center" style="color:#f5f5f5;">Hi 👋, I'm Vidhvath J Poojari</h1>
+<h3 align="center" style="color:#cccccc;">A passionate frontend developer from India, enthusiast in building Web 3 and blockchain technologies</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vidhvath28&label=Profile%20views&color=lightgrey&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vidhvath28&label=Profile%20views&color=grey&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -13,18 +13,18 @@
 
 <p align="center">
   <a href="https://twitter.com/vidhvathj" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/vidhvathj?logo=twitter&style=for-the-badge&color=lightgrey" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/vidhvathj?logo=twitter&style=for-the-badge&color=grey" alt="Twitter Follow" />
   </a>
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Web 3 and blockchain development**
-- 📫 How to reach me: **vidhvathj.2005@gmail.com**
+- 🌱 I’m currently learning **development in Web 3 and blockchain**
+- 📫 Reach me at: **vidhvathj.2005@gmail.com**
 
 ---
 
-<h3 align="left" style="color:#e6e6e6;">Connect with me:</h3>
+<h3 align="left" style="color:#ffffff;">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/vidhvathj" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -36,7 +36,7 @@
 
 ---
 
-<h3 align="left" style="color:#e6e6e6;">Languages and Tools:</h3>
+<h3 align="left" style="color:#ffffff;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -75,7 +75,7 @@
 
 ---
 
-<h3 align="left" style="color:#e6e6e6;">Holopin Badges:</h3>
+<h3 align="left" style="color:#ffffff;">Holopin Badges:</h3>
 <p align="left">
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1py7w8z13960ck7yrdpwycq">
     <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge 1" width="200" height="200" style="display: inline-block;" />
@@ -96,15 +96,9 @@
 
 ---
 
-<h3 align="left" style="color:#e6e6e6;">GitHub Stats:</h3>
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhvath28&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=dark" alt="GitHub Streak" />
-  </p>
-</div>
+<h3 align="left" style="color:#ffffff;">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhvath28&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=dark" alt="GitHub Streak" /></p> 
