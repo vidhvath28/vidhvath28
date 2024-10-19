@@ -19,8 +19,8 @@
 
 ---
 
-- 🌱 I’m currently learning **development in Web 3 and blockchain**
-- 📫 Reach me at: **vidhvathj.2005@gmail.com**
+- 🌱 I’m currently learning **Web 3 and blockchain development**
+- 📫 How to reach me: **vidhvathj.2005@gmail.com**
 
 ---
 
@@ -101,4 +101,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=dark" alt="GitHub Streak" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=dark" alt="GitHub Streak" /></p>
