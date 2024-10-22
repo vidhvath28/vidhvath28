@@ -1,6 +1,5 @@
-
 <h1 align="center" style="color:#f5f5f5;">Hi 👋, I'm Vidhvath J Poojari</h1>
-<h3 align="center" style="color:#cccccc;">Passionate Frontend Developer | Enthusiast in Web 3 & Blockchain Technologies</h3>
+<h3 align="center" style="color:#cccccc;">Passionate Frontend Developer | Web 3 & Blockchain Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vidhvath28&label=Profile%20views&color=grey&style=flat" alt="Profile Views" />
@@ -20,8 +19,11 @@
 
 ---
 
-- 🌱 Currently diving into **Web 3 & Blockchain Development**
-- 📫 Reach me at **vidhvathj.2005@gmail.com**
+### 🌱 Currently learning:
+- **Web 3 & Blockchain Development**
+
+### 📫 Contact Me:
+- **Email**: [vidhvathj.2005@gmail.com](mailto:vidhvathj.2005@gmail.com)
 
 ---
 
@@ -99,13 +101,13 @@
 
 <h3 align="left" style="color:#ffffff;">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhvath28&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhvath28&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=dark" alt="GitHub Streak" style="display: inline-block;"/>
-</p>  improvee it
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=dark" alt="GitHub Streak" />
+</p>
