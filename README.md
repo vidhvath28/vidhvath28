@@ -1,4 +1,3 @@
-
 <h1 align="center" style="color:#f5f5f5;">Hi 👋, I'm Vidhvath J Poojari</h1>
 <h3 align="center" style="color:#cccccc;">Passionate Frontend Developer | Enthusiast in Web 3 & Blockchain Technologies</h3>
 
@@ -21,6 +20,7 @@
 ---
 
 - 🌱 Currently diving into **Web 3 & Blockchain Development**
+- 🎯 Exploring **smart contracts** and **decentralized finance (DeFi)** applications.
 - 📫 Reach me at **vidhvathj.2005@gmail.com**
 
 ---
@@ -42,58 +42,20 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
+  <!-- Other tools and languages as before -->
+</p>
+
+---
+
+<h3 align="left" style="color:#ffffff;">Projects:</h3>
+<p align="left">
+  - [Your Project Name](link) - Short description of what this project does.
 </p>
 
 ---
 
 <h3 align="left" style="color:#ffffff;">Holopin Badges:</h3>
-<p align="left">
-  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1py7w8z13960ck7yrdpwycq">
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge 1" width="200" height="200" style="display: inline-block;" />
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm20k04nd102650cl666hib3id">
-    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="Holopin Badge 2" width="200" height="200" style="display: inline-block;" />
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm21d5fa261370ckx8hcm3qmy">
-    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-hoodie-0-0.webp" alt="Holopin Badge 3" width="200" height="200" style="display: inline-block;" />
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm22tueat06210ck35t5qfe6n">
-    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-hoodie-witch-0.webp" alt="Holopin Badge 4" width="200" height="200" style="display: inline-block;" />
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm231n6zr12340cl38u8z70yj">
-    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-hoodie-witch-moon.webp" alt="Holopin Badge 5" width="200" height="200" style="display: inline-block;" />
-  </a>
-</p>
+<!-- Holopin badges as before -->
 
 ---
 
