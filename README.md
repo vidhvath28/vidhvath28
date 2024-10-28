@@ -106,59 +106,9 @@
 </p>
 
 ---
-<style>
-/* Fade-in animation for each project */
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
 
-/* Hover effect for project name */
-.project-name:hover {
-  color: #00ffcc;
-  transform: scale(1.05);
-  transition: color 0.3s ease, transform 0.3s ease;
-}
 
-/* Styling for project containers */
-.project-container {
-  margin: 20px 0;
-  animation: fadeIn 1s ease forwards;
-  opacity: 0; /* initially hidden */
-}
 
-</style>
-
----
-
-<h3 align="center" style="color:#ffffff;">🚀 Projects:</h3>
-<p align="center" style="color:#cccccc;">I’m passionate about creating impactful, real-world applications, especially around Web3, blockchain, and generative AI. Here are a few of my projects:</p>
-
-<div align="center">
-
-  <div class="project-container" style="animation-delay: 0.1s;">
-    <p class="project-name"><b>Crystal2Nix</b></p>
-    <p style="color:#cccccc;">A tool designed to integrate Crystal projects with Nix, featuring improved testing and sandboxing for reproducibility.</p>
-  </div>
-
-  <div class="project-container" style="animation-delay: 0.3s;">
-    <p class="project-name"><b>LibraGraphAI</b></p>
-    <p style="color:#cccccc;">A library management system powered by knowledge graphs and generative AI, making it easier to find resources efficiently.</p>
-  </div>
-
-  <div class="project-container" style="animation-delay: 0.5s;">
-    <p class="project-name"><b>EcoStudy</b></p>
-    <p style="color:#cccccc;">An educational platform that combines sustainability education with practical projects, aimed at empowering students to take real-world action.</p>
-  </div>
-
-  <div class="project-container" style="animation-delay: 0.7s;">
-    <p class="project-name"><b>LetsGo (coming soon)</b></p>
-    <p style="color:#cccccc;">An enhanced travel experience platform inspired by Headout, focused on user personalization and expanded travel options.</p>
-  </div>
-
-</div>
-
----
 
 
 <h3 align="center" style="color:#ffffff;">Holopin Badges:</h3>
