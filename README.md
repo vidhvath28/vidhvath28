@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#FFFFFF;">Hi 👋, I'm Vidhvath J Poojari</h1>
-<h3 align="center" style="color:#CCCCCC;">Frontend Developer | Web3 & Blockchain Enthusiast</h3>
+<h1 align="center" style="color:#ffffff;">Hi 👋, I'm Vidhvath J Poojari</h1>
+<h3 align="center" style="color:#cccccc;">Frontend Developer | Web3 & Blockchain Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vidhvath28&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" />
@@ -105,6 +105,10 @@
 
 ---
 
+
+
+
+
 <h3 align="center" style="color:#ffffff;">Holopin Badges:</h3>
 <p align="center">
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1py7w8z13960ck7yrdpwycq">
@@ -123,3 +127,18 @@
     <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-hoodie-witch-moon.webp" alt="Holopin Badge 5" width="150" height="150" style="margin: 10px;" />
   </a>
 </p>
+
+---
+
+<h3 align="center" style="color:#ffffff;">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhvath28&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=dark" alt="GitHub Streak" />
+</p>  
