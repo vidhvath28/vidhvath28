@@ -95,6 +95,7 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
+ 
   
   <!-- Design Tools -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -103,6 +104,10 @@
 </p>
 
 ---
+
+
+
+
 
 <h3 align="center" style="color:#ffffff;">Holopin Badges:</h3>
 <p align="center">
@@ -122,3 +127,18 @@
     <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-hoodie-witch-moon.webp" alt="Holopin Badge 5" width="150" height="150" style="margin: 10px;" />
   </a>
 </p>
+
+---
+
+<h3 align="center" style="color:#ffffff;">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhvath28&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=dark" alt="GitHub Streak" />
+</p>   
