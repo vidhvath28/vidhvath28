@@ -6,8 +6,6 @@
 
 
 <p align="center">
-
-  
   <img src="https://komarev.com/ghpvc/?username=vidhvath28&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" />
 </p>
 
