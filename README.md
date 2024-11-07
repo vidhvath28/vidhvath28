@@ -1,4 +1,6 @@
 <h1 align="center" style="color:#ffffff;">Hi 👋, I'm Vidhvath J Poojari</h1>
+
+
 <h3 align="center" style="color:#d3d3d3;">Frontend Developer | Web3 & Blockchain Enthusiast</h3>
 
 <p align="center">
