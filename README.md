@@ -127,13 +127,13 @@
 
 <h3 align="center" style="color:#00ff7f;">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&theme=radical&title_color=00ff7f&icon_color=ff69b4&count_private=true&hide=prs" alt="Vidhvath's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&theme=radical&title_color=00ff7f&icon_color=ff69b4&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=radical&title_color=00ff7f&icon_color=ff69b4&text_color=ffffff&bg_color=000000" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhvath28&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhvath28&layout=compact&theme=radical&title_color=00ff7f&icon_color=ff69b4&text_color=ffffff&bg_color=000000" alt="Top Languages" />
 </p>
