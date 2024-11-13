@@ -134,6 +134,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=radical&title_color=00ff7f&icon_color=ff69b4&text_color=ffffff&bg_color=000000" alt="GitHub Streak" />
 </p>
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhvath28&layout=compact&theme=radical&title_color=00ff7f&icon_color=ff69b4&text_color=ffffff&bg_color=000000" alt="Top Languages" />
 </p>
