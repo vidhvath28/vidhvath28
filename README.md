@@ -43,6 +43,15 @@
   <a href="https://github.com/vidhvath28" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm21d5fa261370ckx8hcm3qmy">
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-hoodie-0-0.webp" alt="Holopin Badge 3" width="150" height="150" style="margin: 10px;" />
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm22tueat06210ck35t5qfe6n">
+    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-hoodie-witch-0.webp" alt="Holopin Badge 4" width="150" height="150" style="margin: 10px;" />
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm231n6zr12340cl38u8z70yj">
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-hoodie-witch-moon.webp" alt="Holopin Badge 5" width="150" height="150" style="margin: 10px;" />
+  </a>
 </p>
 
 ---
