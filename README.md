@@ -24,6 +24,7 @@
 
 ### 🌱 Currently Exploring
 
+
 - **Web 3 & Blockchain Development** – Building decentralized applications to enhance data privacy and accessibility.
 - **Frontend Frameworks** – Improving my skills in React and Tailwind CSS.
 
