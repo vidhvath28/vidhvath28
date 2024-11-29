@@ -1,11 +1,6 @@
 
 <h1 align="center" style="color:#00ff7f;">Hi 👋, I'm Vidhvath J Poojari</h1>
-
-
 <h3 align="center" style="color:#b3b3b3;">Frontend Developer | Web3 & Blockchain Enthusiast</h3>
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vidhvath28&label=Profile%20Views&color=00ff7f&style=flat" alt="Profile Views" />
 </p>
@@ -21,14 +16,8 @@
     <img src="https://img.shields.io/twitter/follow/vidhvathj?logo=twitter&style=for-the-badge&color=00ff7f" alt="Twitter Follow" />
   </a>
 </p>
-
-
-
 ---
-
-
 ### 🌱 Currently Exploring
-
 
 - **Web 3 & Blockchain Development** – Building decentralized applications to enhance data privacy and accessibility.
 - **Frontend Frameworks** – Improving my skills in React and Tailwind CSS.
@@ -54,9 +43,7 @@
   </a>
   
 </p>
-
 ---
-
 <h3 align="center" style="color:#00ff7f;">Languages and Tools:</h3>
 <p align="center">
   <!-- Core Languages -->
@@ -141,12 +128,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&theme=radical&title_color=00ff7f&icon_color=ff69b4&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhvath28&theme=radical&title_color=00ff7f&icon_color=ff69b4&text_color=ffffff&bg_color=000000" alt="GitHub Streak" />
 </p>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhvath28&layout=compact&theme=radical&title_color=00ff7f&icon_color=ff69b4&text_color=ffffff&bg_color=000000" alt="Top Languages" />
 </p>
