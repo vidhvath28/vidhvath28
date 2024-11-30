@@ -1,16 +1,13 @@
-
 <h1 align="center" style="color:#00ff7f;">Hi 👋, I'm Vidhvath J Poojari</h1>
 <h3 align="center" style="color:#b3b3b3;">Frontend Developer | Web3 & Blockchain Enthusiast</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vidhvath28&label=Profile%20Views&color=00ff7f&style=flat" alt="Profile Views" />
 </p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vidhvath28&theme=darkhub&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://twitter.com/vidhvathj" target="_blank">
     <img src="https://img.shields.io/twitter/follow/vidhvathj?logo=twitter&style=for-the-badge&color=00ff7f" alt="Twitter Follow" />
@@ -18,7 +15,6 @@
 </p>
 ---
 ### 🌱 Currently Exploring
-
 - **Web 3 & Blockchain Development** – Building decentralized applications to enhance data privacy and accessibility.
 - **Frontend Frameworks** – Improving my skills in React and Tailwind CSS.
 
