@@ -17,9 +17,7 @@
 ### 🌱 Currently Exploring
 - **Web 3 & Blockchain Development** – Building decentralized applications to enhance data privacy and accessibility.
 - **Frontend Frameworks** – Improving my skills in React and Tailwind CSS.
-
 ---
-
 ### 📫 How to Reach Me:
 - **Email**: [vidhvathj.2005@gmail.com](mailto:vidhvathj.2005@gmail.com)
 
