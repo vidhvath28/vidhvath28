@@ -20,9 +20,7 @@
 ---
 ### 📫 How to Reach Me:
 - **Email**: [vidhvathj.2005@gmail.com](mailto:vidhvathj.2005@gmail.com)
-
 ---
-
 <h3 align="center" style="color:#00ff7f;">Connect with me:</h3>
 
 <p align="center">
