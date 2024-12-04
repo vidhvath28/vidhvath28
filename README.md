@@ -111,9 +111,7 @@
     <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-hoodie-witch-moon.webp" alt="Holopin Badge 5" width="150" height="150" style="margin: 10px;" />
   </a>
 </p>
-
 ---
-
 <h3 align="center" style="color:#00ff7f;">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vidhvath28&show_icons=true&theme=radical&title_color=00ff7f&icon_color=ff69b4&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
