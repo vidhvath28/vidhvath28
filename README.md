@@ -68,7 +68,6 @@
   <a href="https://web3js.readthedocs.io/en/v1.5.2/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Web3.js" width="40" height="40"/>
   </a>
-
   <!-- Databases -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
