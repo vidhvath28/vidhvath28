@@ -83,6 +83,9 @@
    <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm20k04nd102650cl666hib3id">
     <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-hoodie-witch-moon.webp" alt="Holopin Badge 2" width="150" height="150" />
    </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm20k04nd102650cl666hib3id">
+    <img src="https://www.holopin.io/_next/static/media/unknown-bg.aa609060.svg" alt="Holopin Badge 2" width="150" height="150" />
+   </a>
 </p>
 
 ---
