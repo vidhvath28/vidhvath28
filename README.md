@@ -2,6 +2,7 @@
 
 <h3 align="center" style="color:#b3b3b3;">Frontend Developer | Web3 & Blockchain Enthusiast</h3>
 <p align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=vidhvath28&label=Profile%20Views&color=00ff7f&style=flat" alt="Profile Views" />
 </p>
 
